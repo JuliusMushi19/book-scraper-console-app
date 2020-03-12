@@ -29,7 +29,7 @@ Features ready:
 * To look at 5-star books
 
 To-do list:
-* To look at cheapest book
+* None
 
 ## Status
 Project is: _finished_
