@@ -26,7 +26,10 @@ Since it was a simple app, there was not much setup required.
 
 ## Features
 Features ready:
-* To look at 5-star books
+* Look at 5-star books
+* Look at the cheapest books
+* Get the next available book on the catalogue
+* Quit the app
 
 To-do list:
 * None
@@ -35,7 +38,7 @@ To-do list:
 Project is: _finished_
 
 ## Inspiration
-Project based on online course I took with Udemy.
+Project based on online course I took on Udemy.
 
 ## Contact
 Created by Julius Mushi - feel free to contact me!
