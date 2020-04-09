@@ -20,6 +20,11 @@ The goal of this project is to show my portifolio to the world.
 ## Technologies
 * PyCharm
 * Python
+* BeautifulSoup
+* logging
+* requests
+* time
+* 
 
 ## Setup
 Since it was a simple app, there was not much setup required.
