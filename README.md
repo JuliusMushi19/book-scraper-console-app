@@ -24,7 +24,9 @@ The goal of this project is to show my portifolio to the world.
 * logging
 * requests
 * time
-* 
+* aiohttp
+* async_timeout
+* asyncio
 
 ## Setup
 Since it was a simple app, there was not much setup required.
